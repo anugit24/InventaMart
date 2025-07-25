@@ -6,11 +6,6 @@ In this python project, we will build a grocery store management application. It
 
 ![](homepage.JPG)
 
-### Installation Instructions
-
-Download mysql for windows: https://dev.mysql.com/downloads/installer/
-
-`pip install mysql-connector-python`
 
 ### Exercise 
 
